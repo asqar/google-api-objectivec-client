@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'GoogleAPIClient'
+  s.name         = 'Google-API-Client'
   s.version      = '1.0.4'
   s.author       = 'Google Inc.'
   s.homepage     = 'https://github.com/google/google-api-objectivec-client'
